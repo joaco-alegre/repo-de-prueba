@@ -1,4 +1,4 @@
-nombre = "lucassoy dea dea de ade dedededeededea"
+nombre = "juan pappa"
 apellido = "dalto "
 
 
