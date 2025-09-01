@@ -1,5 +1,6 @@
-nombre = "lucassoy dea dea de ade dedededeededea"
+nombre = "Joaquin Alegre"
 apellido = "dalto "
 
 
 pregunta = "hola como estas?"
+
