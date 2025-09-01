@@ -1,4 +1,4 @@
-nombre = "Joaquin Alegre lucas "
+nombre = "Joaquin Alegre"
 apellido = "dalto "
 
 
